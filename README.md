@@ -1,6 +1,6 @@
 ### Hi,I'm Ayan 👋👨‍💻
 
-![ayanbag](https://user-images.githubusercontent.com/28982255/88036858-c2e0cc80-cb61-11ea-98ad-84fa9f27ac8e.png)
+![ayanbag](https://user-images.githubusercontent.com/28982255/88037313-5914f280-cb62-11ea-95e2-3b5e4295d9ad.png)
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python and JavaScript. My interest lies is in Machine Learning and Data Visualization.
 
