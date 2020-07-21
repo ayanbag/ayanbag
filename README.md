@@ -1,12 +1,14 @@
-### Hi,I'm Ayan 👋
+### Hi,I'm Ayan 👋👨‍💻
+
+![ayanbag](https://user-images.githubusercontent.com/28982255/88035930-75b02b00-cb60-11ea-8809-07b1f3f815f5.png)
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python and JavaScript. My interest lies is in Machine Learning and Data Visualization.
 
 ## Find me around the web 🌎:
 
 - Learning in public on [ayanbag.com](https://ayanbag.com) ✍
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/ayanbag) 
-- Publishing my reasearch articles on [ResearchGate](https://www.researchgate.net/) or [Academia](https://kgec.academia.edu/AyanBag)
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/ayanbag) 🌱
+- Publishing my reasearch articles on [ResearchGate](https://www.researchgate.net/) or [Academia](https://kgec.academia.edu/AyanBag) ⚡🔭
 
 <!--
 **ayanbag/ayanbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
