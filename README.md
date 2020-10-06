@@ -12,7 +12,7 @@ I'm a software engineer and a final year engineering undergrad who is passionate
 
 - Learning in public on [ayanbag.com](https://ayanbag.com) ✍
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/ayanbag) 🌱
-- Publishing my reasearch articles on [Research Gate](https://www.researchgate.net/profile/Ayan_Bag) or [Academia](https://kgec.academia.edu/AyanBag) ⚡🔭
+- Publishing my reasearch articles on [Research Gate](https://www.researchgate.net/profile/Ayan_Bag) ⚡🔭
 
 <!--
 **ayanbag/ayanbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
