@@ -14,6 +14,7 @@ I'm a software engineer and a final year engineering undergrad who is passionate
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/ayanbag) 🌱
 - Publishing my reasearch articles on [Research Gate](https://www.researchgate.net/profile/Ayan_Bag) ⚡🔭
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ayanbag" alt="ayanbag" /> </p>
 <!--
 **ayanbag/ayanbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
