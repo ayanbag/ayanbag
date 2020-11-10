@@ -3,7 +3,7 @@
 ![ayanbag](https://user-images.githubusercontent.com/28982255/94330684-557b6d00-ffe4-11ea-8339-4864e730866b.png)
 
 
-I'm a software engineer and a final year engineering undergrad who is passionate about making open-source more accessible, and creating technology to elevate people. Some technologies I enjoy working with include Python and JavaScript. My interest lies in Machine Learning and Data Visualization.
+I'm an aspiring software engineer and a final year engineering undergrad who is passionate about making open-source more accessible, and creating technology to elevate people. Some technologies I enjoy working with include Python and JavaScript. My interest lies in Machine Learning and Data Visualization.
 <br />
 
 
